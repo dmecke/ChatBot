@@ -1,0 +1,32 @@
+{
+    "name": "cunningsoft/chatbot",
+    "type": "",
+    "description": "",
+    "keywords": [],
+    "homepage": "https://github.com/dmecke/ChatBot",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Mecke",
+            "homepage": "https://github.com/dmecke"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/dmecke/ChatBot/contributors"
+        }
+    ],
+    "require": {
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1-dev"
+        }
+    },
+    "autoload": {
+        "psr-0": {
+            "Cunningsoft\\ChatBot": ""
+        }
+    },
+    "target-dir": "Cunningsoft/ChatBot"
+}
+
